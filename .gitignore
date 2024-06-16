@@ -2,3 +2,9 @@
 .pixi
 *.egg-info
 
+# MacOS folder config
+.DS_Store
+
+# Quarto files
+/.quarto/
+/_site/
