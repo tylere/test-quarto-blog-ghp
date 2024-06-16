@@ -4,6 +4,7 @@ version = "0.1.0"
 description = "Add a short description here"
 authors = ["Tyler Erickson <tyler@vorgeo.com>"]
 channels = ["conda-forge"]
+# linux-64 is used by GitHub Actions
 platforms = ["osx-arm64", "linux-64"]
 
 [tasks]
